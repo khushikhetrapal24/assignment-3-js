@@ -82,9 +82,3 @@ To create this "Bun on the Run" menu app the following JavaScript concepts were 
     prevBtn.addEventListener("click",previous);
     
     The reason for adding click event handlers is so that we can move to next menu as well as previous menu.
-
-9.  Finally, I __________
-    js
-    init();
-Given the documentation listed here: https://deckofcardsapi.com/ it lists 2 APIs/REST endpoints `Shuffle the Cards` and `Draw a card`.  What would you need to do to draw 1 card?
-- https://deckofcardsapi.com/api/deck/new/draw/?count=1
